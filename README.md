@@ -6,4 +6,5 @@ This project is simple enough to highlight the use of CNN. The program allows yo
 ## How to use
 
 1 - Personally, I use python 3.6
+
 2 - Run requirements.txt
