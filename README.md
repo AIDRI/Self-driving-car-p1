@@ -13,6 +13,6 @@ This project is simple enough to highlight the use of CNN. The program allows yo
 
 4 - Run [loaddata.py](https://github.com/AIDRI/Self-driving-car-p1/blob/master/loaddata.py) with the command __py loadata.py__.
 
-5 - Run [creata_and_train_model.py]() with the command __py create_and_train_model_py__.
+5 - Run [creata_train_model.py](https://github.com/AIDRI/Self-driving-car-p1/blob/master/create_train_model.py) with the command __py create_train_model_py__.
 
 6 - Run [drive_auto.py]() with the command __py drive_auto.py__.
