@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 from itertools import islice
 
 LIMIT = 63825
-
 DATA_FOLDER = 'data'
 TRAIN_FILE = os.path.join(DATA_FOLDER, 'data.txt')
 
