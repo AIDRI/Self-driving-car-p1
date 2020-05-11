@@ -70,7 +70,6 @@ def main():
     model, callbacks_list = keras_model(100, 100)
 
     print_summary(model)
-
     model.fit(train_x, train_y, validation_data=(test_x, test_y), epochs=20, batch_size=64,
               callbacks=callbacks_list)
 
