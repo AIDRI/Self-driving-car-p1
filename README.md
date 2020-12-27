@@ -20,8 +20,3 @@ This project is simple enough to highlight the use of CNN. The program allows yo
 ## Output
 
 ![Output](https://media.discordapp.net/attachments/593359846422741007/709292671386255380/output.png?width=895&height=626)
-
-## Blog
-
-Here, my [blog](https://aidri.github.io/space-jekyll-template//). I post my projects there with detailed explanations of the lines.
-There are also the different links to contact me.
